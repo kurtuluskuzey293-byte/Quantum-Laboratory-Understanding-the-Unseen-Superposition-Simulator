@@ -20,7 +20,7 @@ Entropy and coherence indicators
 
 How to Run the Simulator
 1️⃣ Clone the repository
-git clone https://github.com/your-username/quantum-laboratory.git
+git clone https://github.com/kurtuluskuzey293-byte/Quantum-Laboratory-Understanding-the-Unseen-Superposition-Simulator.git
 cd quantum-laboratory
 2️⃣ Install dependencies
 pip install streamlit numpy plotly
