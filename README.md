@@ -1,0 +1,2 @@
+# Quantum-Laboratory-Understanding-the-Unseen-Superposition-Simulator
+Quantum Laboratory is an interactive virtual lab designed to help students and researchers intuitively understand single-qubit superposition through Bloch sphere visualization. Users can adjust state parameters, observe probability changes, and simulate measurement collapse in real time. Developed by Kuzey Kurtuluş. for intuitive quantum learning.!
